@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ugadai_shislo</string>
+    <string name="behind">недолет</string>
+    <string name="ahead">перелет</string>
+    <string name="hit">в точку</string>
+    <string name="try_to_guess">Попробуйте угадать число от (1 &#8211; 100)</string>
+    <string name="error">неверный ввод</string>
+
+    <string name="intut_value">Введите значение</string>
+    <string name="play_more">Сыграть еще?</string>
+
+</resources>
